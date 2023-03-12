@@ -1,2 +1,16 @@
 # setup-discordbot
 This repository is a setup of a discord bot in DJS v14
+
+Créer un bot sur discord developper portal : https://discord.com/developers/applications
+
+faites npm init et renseigner les information que vous souhaitez
+
+dans le congif mettez-y le token de votre bot
+
+Installer les module suivant via le terminal en faisant ctrl + J :
+  npm i discord.js
+  npm i fs
+  npm i path
+  
+  Pour démarrez votre bot faites node main dans le terminal
+  La commande de test est /ping
