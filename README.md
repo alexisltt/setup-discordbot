@@ -1,5 +1,5 @@
 # setup-discordbot
-This repository is a setup of a discord bot in DJS v14
+Ce code setup un bot basique sans commandes
 
 Créer un bot sur discord developper portal : https://discord.com/developers/applications
 
