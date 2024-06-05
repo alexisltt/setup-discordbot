@@ -5,12 +5,13 @@ Créer un bot sur discord developper portal : https://discord.com/developers/app
 
 faites npm init et renseigner les information que vous souhaitez
 
-dans le congif mettez-y le token de votre bot
+dans le .ENV mettez-y le token de votre bot
 
 Installer les module suivant via le terminal en faisant ctrl + J :
-  npm i discord.js
+  npm i discord.js*
+  npm i dotenv
   npm i fs
   npm i path
   
-  Pour démarrez votre bot faites node main dans le terminal
+  Pour démarrez votre bot faites node index dans le terminal
   La commande de test est /ping
